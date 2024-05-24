@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahadath Hosen</h1>
-<h3 align="center">An enthusiastic Android App Developer</h3>
+<h3 align="center">An Enthusiastic Android App Developer</h3>
 
 - 🌱 I’m currently learning **I'm currently exploring Jetpack Compose for modern UI development and improving my skills in advanced Android architecture patterns.**
 
