@@ -20,6 +20,7 @@
 
 # GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahadathhosen&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahadathhosen&layout=compact&theme=radical)
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahadathhosen&theme=vue)
+
+![Shahadathhosen's Stats](https://github-readme-stats.vercel.app/api?username=Shahadathhosen&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![Shahadathhosen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shahadathhosen&theme=tokyonight&hide_border=false)
+![Shahadathhosen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahadathhosen&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
